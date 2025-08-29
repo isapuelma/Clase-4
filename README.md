@@ -1,2 +1,2 @@
-# Clase-4
+# Segunda-Clase
 Archivos clase
