@@ -1,2 +1,0 @@
-# Cuarta-Clase
-Archivos clase
