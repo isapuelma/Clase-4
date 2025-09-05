@@ -3,7 +3,7 @@ var y = 0;
 var canvas; 
 //esta declaración es una variante global, no se pueden usar tildes//
 
-function setup() { //función + nombre//
+function setup() { //función + nombre HOLA//
   canvas = createCanvas(windowWidth, windowHeight); //uso canvas que ya declaré. Create canvas es la función//
   canvas.parent("cuerpo");
   canvas.position(0,0);
@@ -27,4 +27,5 @@ function windowResized() { //pantalla liquid, solo ajusta tamaño, resposive ada
 }
 
 //p5, es para sketch
+
 mapeo
